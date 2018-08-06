@@ -1,5 +1,3 @@
-# shadowsocks-net-speeder
-
 FROM ubuntu:16.04
 MAINTAINER lowid <lowid@outlook.com>
 RUN apt-get update && \
